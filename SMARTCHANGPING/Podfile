@@ -1,0 +1,16 @@
+platform :ios, ‘7.0’
+
+target 'SMARTCHANGPING' do
+  pod 'AFNetworking'
+  pod 'SDWebImage'
+  pod 'SDAutoLayout'
+  pod 'AMapNavi-NO-IDFA'
+  pod 'AMapLocation-NO-IDFA'
+  pod 'AMapSearch-NO-IDFA'
+  pod 'MJRefresh'
+  pod 'MBProgressHUD'
+  pod 'UIColor+Hex'
+  pod 'UMengUShare'
+  pod 'DEUserDefaults'
+  pod 'MD5Digest'
+end
